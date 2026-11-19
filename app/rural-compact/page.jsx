@@ -1,0 +1,5 @@
+import {PageTitle} from '../../components/Shell';
+import data from '../../data/content.json';
+import {pdf} from '../../components/constants';
+export const metadata={title:'Rural Rescue Compact'};
+export default function Rural(){return <><PageTitle label="PART FIVE · RESCUE MISSION" title="The Rural Rescue Compact.">Development will start where it has waited most.</PageTitle><section className="numbers"><div className="wrap number-grid three"><div><strong>17</strong><span>LGAs</span></div><div><strong>260</strong><span>Wards covered</span></div><div><strong>60%</strong><span>Proposed share of new road infrastructure targeting rural LGAs</span></div></div></section><section className="section wrap compact-layout"><div><h2>Ten commitments.</h2><p>Page 57 of the manifesto sets out proposed local development priorities, including public quarterly LGA scorecards.</p><a className="button dark" href={pdf+'#page=57'}>Read original page ↗</a></div><div className="compact-list">{data.compact.map(([title,body],i)=><article key={title}><b>{String(i+1).padStart(2,'0')}</b><div><h3>{title}</h3><p>{body}</p></div></article>)}</div></section></>}

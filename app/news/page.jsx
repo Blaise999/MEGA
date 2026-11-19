@@ -1,0 +1,4 @@
+import {PageTitle} from '../../components/Shell';
+import data from '../../data/content.json';
+export const metadata={title:'Newsroom'};
+export default function News(){const news=data.news.filter(n=>n.published);return <><PageTitle label="MEGA" title="Newsroom.">Campaign statements and updates.</PageTitle><section className="section wrap">{news.length?news.map(n=><article key={n.id} className="news-row"><span className="meta">{n.date}</span><h2>{n.title}</h2><p>{n.body}</p><a className="text-link" href={n.source} target="_blank" rel="noreferrer">Read independent report ↗</a>{n.image&&<img src={n.image} alt={n.title}/>}</article>):<><h2>No published statements yet.</h2><p>Read the manifesto and find published campaign events on the campaign trail.</p><a className="button dark" href="/campaign-trail">Campaign trail ↗</a></>}</section></>}

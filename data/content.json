@@ -1,0 +1,236 @@
+{
+  "campaignEvents": [
+    {
+      "id": "unveiling",
+      "date": "2026-11-18",
+      "lga": "Enugu North",
+      "title": "Manifesto unveiling and campaign council inauguration",
+      "venue": "37 Park Avenue, GRA, Enugu",
+      "description": "The Rescue Mission manifesto was unveiled and the campaign council inaugurated.",
+      "status": "completed",
+      "kind": "campaign",
+      "published": true,
+      "source": "https://independent.ng/enugu-ndc-governorship-candidate-inaugurates-campaign-council/",
+      "venueSource": "https://www.teapawt.org/SirChinyeaka/status/2122343277076611388"
+    },
+    {
+      "id": "townhall",
+      "date": "2026-10-29",
+      "lga": null,
+      "title": "NDC town hall meeting",
+      "venue": "Enugu city · final venue unverified",
+      "description": "Ohaa addressed the NDC town hall alongside the party’s national campaign. The precise LGA is not assigned until the final venue is verified.",
+      "status": "completed",
+      "kind": "campaign",
+      "published": true,
+      "source": "https://www.areanewsng.com/news/enugu-ndc-governorship-candidate-ohaa-rallies-support-for-obi-calls-for-leadership-change/"
+    },
+    {
+      "id": "affa",
+      "date": "2026-10-22",
+      "lga": "Udi",
+      "title": "Memorial visit in Affa",
+      "venue": "Affa, Udi",
+      "description": "Ohaa attended the burial of Ifeanyi Nwolie alongside other party representatives. This is a memorial visit, not a rally.",
+      "status": "completed",
+      "kind": "visit",
+      "published": true,
+      "source": "https://www.premiumtimesng.com/news/top-news/919448-peter-obi-promises-support-as-family-buries-ndc-supporter-killed-in-enugu.html"
+    },
+    {
+      "id": "flagoff",
+      "date": "2026-10-10",
+      "lga": "Enugu North",
+      "title": "Governorship campaign flag-off",
+      "venue": "Campaign office, GRA, Enugu",
+      "description": "The campaign was formally launched in GRA, according to published coverage and the party’s account.",
+      "status": "completed",
+      "kind": "campaign",
+      "published": true,
+      "source": "https://www.premiumtimesng.com/news/top-news/919448-peter-obi-promises-support-as-family-buries-ndc-supporter-killed-in-enugu.html"
+    },
+    {
+      "id": "airport",
+      "date": "2026-10-10",
+      "lga": "Enugu East",
+      "title": "Airport arrival and reception",
+      "venue": "Akanu Ibiam International Airport, Emene",
+      "description": "The candidate arrived at the airport ahead of the campaign launch. Recorded separately from a formal LGA rally.",
+      "status": "completed",
+      "kind": "visit",
+      "published": true,
+      "source": "https://www.premiumtimesng.com/news/top-news/919448-peter-obi-promises-support-as-family-buries-ndc-supporter-killed-in-enugu.html"
+    },
+    {
+      "id": "awkunanaw",
+      "date": "2026-08-19",
+      "lga": null,
+      "title": "Awkunanaw community gathering",
+      "venue": "Ndi Uno Obuoffia, precise LGA designation pending",
+      "description": "Both NDC governorship candidates attended the traditional gathering, according to published reporting. Kept separate from formal campaign rallies.",
+      "status": "completed",
+      "kind": "visit",
+      "published": true,
+      "source": "https://everydaynewsngr.net/awkunanaw-clan-gives-ofo-to-their-son-sir-chinyeaka-ohaa-the-ndc-2027-enugu-state-guber-candidate/"
+    }
+  ],
+  "news": [
+    {
+      "id": "unveiling",
+      "date": "2026-11-18",
+      "title": "Manifesto unveiling and campaign council inauguration",
+      "body": "The Rescue Mission manifesto was unveiled on November 18 alongside the inauguration of the 310-member campaign council, according to Independent Nigeria.",
+      "source": "https://independent.ng/enugu-ndc-governorship-candidate-inaugurates-campaign-council/",
+      "published": true
+    },
+    {
+      "id": "townhall",
+      "date": "2026-10-29",
+      "title": "NDC town hall meeting",
+      "body": "Ohaa addressed the NDC town hall alongside the party’s national campaign. The precise LGA is not assigned until the final venue is verified.",
+      "source": "https://www.areanewsng.com/news/enugu-ndc-governorship-candidate-ohaa-rallies-support-for-obi-calls-for-leadership-change/",
+      "published": true
+    },
+    {
+      "id": "flagoff",
+      "date": "2026-10-10",
+      "title": "Governorship campaign flag-off",
+      "body": "The campaign was formally launched in GRA, according to published coverage and the party’s account.",
+      "source": "https://www.premiumtimesng.com/news/top-news/919448-peter-obi-promises-support-as-family-buries-ndc-supporter-killed-in-enugu.html",
+      "published": true
+    },
+    {
+      "id": "awkunanaw",
+      "date": "2026-08-19",
+      "title": "Awkunanaw community gathering",
+      "body": "Both candidates attended the traditional community event, as reported in August.",
+      "source": "https://everydaynewsngr.net/awkunanaw-clan-gives-ofo-to-their-son-sir-chinyeaka-ohaa-the-ndc-2027-enugu-state-guber-candidate/",
+      "published": true
+    }
+  ],
+  "lgas": [
+    "Aninri",
+    "Awgu",
+    "Enugu East",
+    "Enugu North",
+    "Enugu South",
+    "Ezeagu",
+    "Igbo-Etiti",
+    "Igbo-Eze North",
+    "Igbo-Eze South",
+    "Isi-Uzo",
+    "Nkanu East",
+    "Nkanu West",
+    "Nsukka",
+    "Oji River",
+    "Udenu",
+    "Udi",
+    "Uzo-Uwani"
+  ],
+  "milestones": [
+    {
+      "time": "Day 7",
+      "title": "Market traders recovery committee",
+      "body": "Establish an independent committee to investigate demolitions and document traders’ losses.",
+      "page": 11
+    },
+    {
+      "time": "Day 30",
+      "title": "Preliminary market recovery report",
+      "body": "The committee submits its preliminary report on affected traders and unresolved claims.",
+      "page": 12
+    },
+    {
+      "time": "Days 31–60",
+      "title": "Judicial financial review",
+      "body": "Audit judicial allocations, accounts, payroll and outstanding arrears.",
+      "page": 41
+    },
+    {
+      "time": "Day 60",
+      "title": "Compensation assessment",
+      "body": "Commence independent assessment of legitimate market compensation claims.",
+      "page": 12
+    },
+    {
+      "time": "Day 90",
+      "title": "Replacement trading spaces",
+      "body": "Identify available commercial spaces, provide temporary stalls and prioritise verified displaced traders for replacement shops.",
+      "page": 12
+    },
+    {
+      "time": "Day 100",
+      "title": "Business relief and land review",
+      "body": "Review unjustified and duplicative levies; establish a land and housing review committee and open a public consultation channel.",
+      "page": 19
+    },
+    {
+      "time": "Six months",
+      "title": "Land administration reforms",
+      "body": "Publish findings, release a revised schedule of approved land fees and commence digitisation of priority records.",
+      "page": 19
+    },
+    {
+      "time": "24 months",
+      "title": "Solar-for-Water programme",
+      "body": "Programme for sustainable pipe-borne supply with solar pumping, distribution and storage improvements.",
+      "page": 50
+    },
+    {
+      "time": "End of year 3",
+      "title": "One ward, one water scheme",
+      "body": "Target a functional solar-powered water scheme in every ward.",
+      "page": 57
+    }
+  ],
+  "compact": [
+    [
+      "Direct funding to councils",
+      "Implement local government autonomy so allocations reach councils directly."
+    ],
+    [
+      "One ward, one water scheme",
+      "Functional solar-powered water schemes in each of the 260 wards by the end of year three."
+    ],
+    [
+      "One ward, one working clinic",
+      "Upgrade at least one primary health centre in each ward to 24-hour service."
+    ],
+    [
+      "Farm-to-market roads",
+      "Durable rural roads and bridges linking farms, hubs and markets."
+    ],
+    [
+      "Agro-hub in every LGA",
+      "Processing, storage and cold-chain hubs for rural employment."
+    ],
+    [
+      "Rural power",
+      "Mini-grids and solar systems for communities, hubs, markets and clinics."
+    ],
+    [
+      "Rural security",
+      "Community security network and forest guards, early warning and rapid response."
+    ],
+    [
+      "Rural schools and teachers",
+      "Rehabilitate schools and pay a rural allowance to teachers and health workers."
+    ],
+    [
+      "Markets, credit and cooperatives",
+      "Rebuild rural markets and channel credit through cooperatives and faith-based groups."
+    ],
+    [
+      "Land protection",
+      "Due process, valuation, public hearings and prompt compensation for land acquisition."
+    ]
+  ],
+  "proposedNextStop": {
+    "id": "proposed-nsukka",
+    "lga": "Nsukka",
+    "title": "Nsukka",
+    "venue": null,
+    "date": null,
+    "status": "proposed"
+  }
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "water-for-all",
+    "title": "Water for All",
+    "metric": "24 months",
+    "metricLabel": "Solar-for-Water programme",
+    "response": "Solar-powered pumping, rehabilitated treatment facilities and expanded pipe networks. A 24-month programme for more reliable public water supply.",
+    "photo": "policy-water",
+    "pages": "50–54"
+  },
+  {
+    "slug": "market-traders-recovery",
+    "title": "Market traders recovery",
+    "metric": "7 days",
+    "metricLabel": "Independent recovery committee",
+    "response": "Set up an independent committee within seven days of taking office to document traders’ losses, assess compensation claims and arrange replacement trading spaces.",
+    "photo": "policy-market",
+    "pages": "11–13"
+  },
+  {
+    "slug": "education",
+    "title": "Education",
+    "metric": "Year 1",
+    "metricLabel": "Priority school rehabilitation",
+    "response": "Rehabilitate existing classrooms, assess school safety and address teacher shortages, starting with the schools in greatest need.",
+    "photo": "policy-school",
+    "pages": "47–50"
+  },
+  {
+    "slug": "steady-power",
+    "title": "Steady Power",
+    "metric": "Solar",
+    "metricLabel": "Decentralised electricity",
+    "response": "Provide affordable electricity through solar systems and mini-grids for markets, businesses, schools, clinics and rural communities.",
+    "photo": "policy-solar",
+    "pages": "26–29"
+  },
+  {
+    "slug": "agriculture-and-ranching",
+    "title": "Agriculture",
+    "metric": "3 zones",
+    "metricLabel": "Agricultural corridors",
+    "response": "Develop agricultural production, processing and storage across the three senatorial zones, with solar-powered agro-processing hubs.",
+    "photo": "policy-farm",
+    "pages": "20–24"
+  },
+  {
+    "slug": "healthcare",
+    "title": "Healthcare",
+    "metric": "260 wards",
+    "metricLabel": "Primary care coverage",
+    "response": "Upgrade at least one primary health centre in every ward to provide 24-hour service.",
+    "photo": "policy-health",
+    "pages": "47, 57"
+  },
+  {
+    "slug": "environment-and-sanitation",
+    "title": "Environment",
+    "metric": "60%",
+    "metricLabel": "New road infrastructure target for rural LGAs",
+    "response": "Direct 60% of new road infrastructure towards rural LGAs, with durable farm-to-market roads, bridges and erosion control.",
+    "photo": "policy-road",
+    "pages": "54, 57"
+  },
+  {
+    "slug": "ict-and-digital-economy",
+    "title": "Digital economy",
+    "metric": "3 hubs",
+    "metricLabel": "Initial innovation hubs",
+    "response": "Establish innovation hubs in Agbani, Nsukka and Oji River, with practical digital skills training and workspaces.",
+    "photo": "policy-tech",
+    "pages": "29–33"
+  },
+  {
+    "slug": "international-airport",
+    "title": "Aviation",
+    "metric": "Airport",
+    "metricLabel": "Aviation and diaspora gateway",
+    "response": "Develop Akanu Ibiam International Airport as an aviation, trade and diaspora gateway.",
+    "photo": "airport-terminal",
+    "pages": "35–36"
+  },
+  {
+    "slug": "tourism-and-cultural-heritage",
+    "title": "Tourism",
+    "metric": "Heritage",
+    "metricLabel": "Cultural and ecotourism assets",
+    "response": "Develop Enugu’s cultural and natural attractions through heritage conservation and tourism investment.",
+    "photo": "forest",
+    "pages": "33–35"
+  },
+  {
+    "slug": "taxation-and-business-relief",
+    "title": "Business and taxation",
+    "metric": "12 months",
+    "metricLabel": "State-level tax relief",
+    "response": "Introduce 12 months of state-level tax relief for eligible registered micro and small businesses, and review duplicative levies.",
+    "photo": "policy-market",
+    "pages": "14–16"
+  }
+]
