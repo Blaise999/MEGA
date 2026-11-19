@@ -1,0 +1,186 @@
+[
+  {
+    "category": "Economy",
+    "page": 11,
+    "title": "Market traders recovery",
+    "summary": "Independent review, verified relief, compensation assessment and replacement trading spaces.",
+    "slug": "market-traders-recovery",
+    "endPage": 14
+  },
+  {
+    "category": "Economy",
+    "page": 14,
+    "title": "Taxation and business relief",
+    "summary": "Review duplicative levies and introduce a 12-month relief programme for eligible registered micro and small businesses.",
+    "slug": "taxation-and-business-relief",
+    "endPage": 16
+  },
+  {
+    "category": "Economy",
+    "page": 16,
+    "title": "Land and housing",
+    "summary": "Review land charges and urban designations, protect customary land rights and expand affordable housing.",
+    "slug": "land-and-housing",
+    "endPage": 20
+  },
+  {
+    "category": "Economy",
+    "page": 20,
+    "title": "Agriculture and ranching",
+    "summary": "Three-zone agricultural clusters, local processing, storage and the decentralised Odalije Ranching Model.",
+    "slug": "agriculture-and-ranching",
+    "endPage": 24
+  },
+  {
+    "category": "Economy",
+    "page": 24,
+    "title": "Coal, gas and mineral development",
+    "summary": "Pursue regulated partnerships for resource development, local mineral processing and industrial power.",
+    "slug": "coal-gas-and-mineral-development",
+    "endPage": 26
+  },
+  {
+    "category": "Economy",
+    "page": 26,
+    "title": "Steady Power",
+    "summary": "Proposed solar systems, battery storage and community mini-grids for markets, rural communities and public services.",
+    "slug": "steady-power",
+    "endPage": 29
+  },
+  {
+    "category": "Economy",
+    "page": 29,
+    "title": "ICT and digital economy",
+    "summary": "Digital skills, technology entrepreneurship, remote employment and creative-economy development.",
+    "slug": "ict-and-digital-economy",
+    "endPage": 33
+  },
+  {
+    "category": "Economy",
+    "page": 33,
+    "title": "Tourism and cultural heritage",
+    "summary": "Develop natural attractions, heritage sites and locally beneficial tourism investment.",
+    "slug": "tourism-and-cultural-heritage",
+    "endPage": 35
+  },
+  {
+    "category": "Economy",
+    "page": 35,
+    "title": "International airport",
+    "summary": "Pursue passenger, cargo and diaspora connectivity through commercially viable aviation partnerships.",
+    "slug": "international-airport",
+    "endPage": 37
+  },
+  {
+    "category": "Governance",
+    "page": 37,
+    "title": "Fiscal accountability",
+    "summary": "Public financial reporting, auditing and transparent oversight of public resources.",
+    "slug": "fiscal-accountability",
+    "endPage": 38
+  },
+  {
+    "category": "Governance",
+    "page": 38,
+    "title": "Local government autonomy",
+    "summary": "Direct local council funding and greater responsibility for community-level delivery.",
+    "slug": "local-government-autonomy",
+    "endPage": 38
+  },
+  {
+    "category": "Governance",
+    "page": 38,
+    "title": "Legislative independence",
+    "summary": "Restore legislative autonomy and strengthen oversight functions.",
+    "slug": "legislative-independence",
+    "endPage": 39
+  },
+  {
+    "category": "Governance",
+    "page": 39,
+    "title": "Judiciary and rule of law",
+    "summary": "Judicial financial autonomy, court modernisation and accessible justice.",
+    "slug": "judiciary-and-rule-of-law",
+    "endPage": 41
+  },
+  {
+    "category": "Governance",
+    "page": 41,
+    "title": "State-wide security",
+    "summary": "An intelligence-driven, community-supported security network focused on prevention and response.",
+    "slug": "state-wide-security",
+    "endPage": 42
+  },
+  {
+    "category": "Governance",
+    "page": 42,
+    "title": "Workers and retirees",
+    "summary": "Verify outstanding gratuities, provide predictable payments and prevent new backlogs.",
+    "slug": "workers-and-retirees",
+    "endPage": 45
+  },
+  {
+    "category": "Governance",
+    "page": 45,
+    "title": "Community leadership",
+    "summary": "Strengthen the welfare and development roles of traditional institutions and faith-based partners.",
+    "slug": "community-leadership",
+    "endPage": 47
+  },
+  {
+    "category": "Social services",
+    "page": 47,
+    "title": "Healthcare",
+    "summary": "Upgrade primary health centres and hospitals, expand coverage and strengthen preventive care.",
+    "slug": "healthcare",
+    "endPage": 47
+  },
+  {
+    "category": "Social services",
+    "page": 47,
+    "title": "Education",
+    "summary": "Assess existing schools, improve teaching quality, rehabilitate infrastructure and expand practical learning.",
+    "slug": "education",
+    "endPage": 50
+  },
+  {
+    "category": "Social services",
+    "page": 50,
+    "title": "Water for All",
+    "summary": "24-month solar-for-water programme, reservoir rehabilitation, pipe expansion and rural water kiosks.",
+    "slug": "water-for-all",
+    "endPage": 54
+  },
+  {
+    "category": "Social services",
+    "page": 54,
+    "title": "Environment and sanitation",
+    "summary": "Address erosion, flooding and waste management to protect communities.",
+    "slug": "environment-and-sanitation",
+    "endPage": 54
+  },
+  {
+    "category": "Social services",
+    "page": 54,
+    "title": "Youth, skills and sports",
+    "summary": "Vocational training, entrepreneurship, talent development and sports opportunities.",
+    "slug": "youth-skills-and-sports",
+    "endPage": 56
+  },
+  {
+    "category": "Social services",
+    "page": 56,
+    "title": "Women and vulnerable residents",
+    "summary": "Economic empowerment, protection of widows and accessible services for persons with disabilities.",
+    "slug": "women-and-vulnerable-residents",
+    "endPage": 57
+  },
+  {
+    "category": "Rural development",
+    "page": 57,
+    "title": "Rural Rescue Compact",
+    "summary": "Ten commitments covering direct council funding, water, clinics, roads, power, security and land protection.",
+    "slug": "rural-rescue-compact",
+    "endPage": 57
+  }
+]

@@ -1,0 +1,3 @@
+import {writeFile,mkdir} from 'node:fs/promises';
+const endpoint='https://services3.arcgis.com/7J7WB6yJX0pYke9q/ArcGIS/rest/services/NCO_Security_Database_WFL1/FeatureServer/1/query?where=ADM1_EN%3D%27Enugu%27&outFields=ADM2_EN%2CADM1_EN&outSR=4326&f=geojson';
+const r=await fetch(endpoint);if(!r.ok)throw new Error(`HTTP ${r.status}`);const geo=await r.json();const names=new Set(geo.features?.map(f=>f.properties?.ADM2_EN));if(names.size!==17||geo.features?.some(f=>!['Polygon','MultiPolygon'].includes(f.geometry?.type)))throw new Error('Expected 17 named LGA polygons. Inspect the dataset before using.');await mkdir('public/data',{recursive:true});await writeFile('public/data/enugu.geojson',JSON.stringify(geo));console.log('Saved LGA boundaries:',[...names].join(', '));

@@ -1,0 +1,453 @@
+{
+  "photos": [
+    {
+      "id": "city",
+      "title": "Enugu from above",
+      "category": "Enugu",
+      "url": "https://i0.wp.com/outravelandtour.com/wp-content/uploads/2021/06/Enugu.jpg?fit=1080%2C607&ssl=1",
+      "source": "https://outravelandtour.com/top-places-of-interest-in-enugu-state/",
+      "credit": "Ou Travel & Tour",
+      "rights": "Permission pending"
+    },
+    {
+      "id": "independence",
+      "title": "Independence Layout",
+      "category": "Enugu",
+      "url": "https://i0.wp.com/outravelandtour.com/wp-content/uploads/2021/06/Independence-Layout-Enugu...jpg?ssl=1",
+      "source": "https://outravelandtour.com/independence-layout-enugu/independence-layout-enugu-2/",
+      "credit": "Ou Travel & Tour",
+      "rights": "Permission pending"
+    },
+    {
+      "id": "sunset",
+      "title": "Coal City at dusk",
+      "category": "Enugu",
+      "url": "https://images.trvl-media.com/place/1150/877d80eb-d4e9-42e1-90a9-a8c5ef880ed2.jpg",
+      "source": "https://www.expedia.com/Things-To-Do-In-Enugu.d1150.Travel-Guide-Activities",
+      "credit": "Expedia imagery",
+      "rights": "Permission pending"
+    },
+    {
+      "id": "market",
+      "title": "Ogbete Market",
+      "category": "Enugu",
+      "url": "https://i0.wp.com/outravelandtour.com/wp-content/uploads/2021/03/ogbete-market-enugu.jpg?ssl=1",
+      "source": "https://outravelandtour.com/lists-of-markets-in-enugu/ogbete-market-enugu/",
+      "credit": "Ou Travel & Tour",
+      "rights": "Permission pending"
+    },
+    {
+      "id": "forest",
+      "title": "Ngwo Pine Forest",
+      "category": "Enugu",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Through_the_pines.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Through_the_pines.jpg",
+      "credit": "Dotun55 / Wikimedia Commons",
+      "rights": "CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "hills",
+      "title": "Hillside road",
+      "category": "Enugu",
+      "url": "https://www.nairaland.com/attachments/11170618_bf008b809d4441359a1f408bbc77c1fe_jpeg_jpeg72cf7a28c16c8aeb74e76aeaa2501039",
+      "source": "https://www.nairaland.com/5724904/enugu-story-abandoned-people-how",
+      "credit": "Nairaland contributor",
+      "rights": "Permission pending"
+    },
+    {
+      "id": "road",
+      "title": "Enugu aerial roadway",
+      "category": "Enugu",
+      "url": "https://www.nairaland.com/attachments/5052438_img4746_jpeg39d1222fe72f28354019b491e1c70621",
+      "source": "https://www.nairaland.com/3702457/drone-views-enugu-pics",
+      "credit": "Nairaland contributor",
+      "rights": "Permission pending"
+    },
+    {
+      "id": "suburb",
+      "title": "Enugu residential landscape",
+      "category": "Enugu",
+      "url": "https://www.nairaland.com/attachments/15805002_djiexport1655631794561_jpegfaa06cceb7a329572f69a044c3a21723",
+      "source": "https://www.nairaland.com/7243455/enugu-coal-city-state-2022",
+      "credit": "Nairaland contributor",
+      "rights": "Permission pending"
+    },
+    {
+      "id": "poster",
+      "title": "Odalije campaign poster",
+      "category": "Campaign",
+      "url": "https://dailynewsngr.com.ng/wp-content/uploads/2026/10/IMG-20261011-WA0225.jpg",
+      "source": "https://dailynewsngr.com.ng/2026/10/11/2027-ndc-enugu-gov-candidate-sir-chinyeaka-ohaa-flags-off-campaign-vows-to-rescue-enugu-state/",
+      "credit": "Daily News Nigeria",
+      "rights": "Permission pending"
+    },
+    {
+      "id": "portrait",
+      "title": "Candidate portrait in news coverage",
+      "category": "Campaign",
+      "url": "https://independent.ng/wp-content/uploads/2026/11/IMG-20261118-WA0095-264x300.jpg",
+      "source": "https://independent.ng/enugu-ndc-governorship-candidate-inaugurates-campaign-council/",
+      "credit": "Independent Nigeria",
+      "rights": "Permission pending",
+      "archiveOnly": true
+    },
+    {
+      "id": "ndcportrait",
+      "title": "NDC-branded portrait",
+      "category": "Campaign",
+      "url": "https://i0.wp.com/rerotv.com/wp-content/uploads/2026/11/IMG-20261101-WA0198.jpg?fit=654%2C727&ssl=1",
+      "source": "https://rerotv.com/news/ohaa-rallies-support-for-obi-calls-for-leadership-change-in-enugu/",
+      "credit": "RERO TV",
+      "rights": "Permission pending",
+      "archiveOnly": true
+    },
+    {
+      "id": "memorial",
+      "title": "October 22 memorial coverage",
+      "category": "Campaign",
+      "url": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/10/Peter-Obi-consoling-the-bereaved-mother-PHOTO-Facebook.png?fit=1536%2C1024&ssl=1",
+      "source": "https://www.premiumtimesng.com/news/top-news/919448-peter-obi-promises-support-as-family-buries-ndc-supporter-killed-in-enugu.html",
+      "credit": "Premium Times / Facebook",
+      "rights": "Permission pending"
+    },
+    {
+      "id": "formal-ohaa",
+      "title": "Alternative Ohaa portrait",
+      "category": "Campaign",
+      "url": "https://everydaynewsngr.net/wp-content/uploads/2026/08/IMG-20260820-WA0491.jpg",
+      "source": "https://everydaynewsngr.net/wp-content/uploads/2026/08/IMG-20260820-WA0491.jpg",
+      "credit": "Everyday News Nigeria",
+      "rights": "Permission pending"
+    },
+    {
+      "id": "omeje-alt",
+      "title": "Frank Omeje directory portrait",
+      "category": "Campaign",
+      "url": "https://cdn.ournigeria.ng/election/2027/gubernatorial/enugu-ndc-ohaa-omeje/poster_mate-310d5acff0e60614.webp",
+      "source": "https://ournigeria.ng",
+      "credit": "Our Nigeria",
+      "rights": "Permission pending",
+      "archiveOnly": true
+    },
+    {
+      "id": "awkunanaw-1",
+      "title": "Awkunanaw gathering, August 2026",
+      "category": "Campaign",
+      "url": "https://everydaynewsngr.net/wp-content/uploads/2026/08/Screenshot_20260820_234313_WhatsApp-1-1024x760.jpg",
+      "source": "https://everydaynewsngr.net/awkunanaw-clan-gives-ofo-to-their-son-sir-chinyeaka-ohaa-the-ndc-2027-enugu-state-guber-candidate/",
+      "credit": "Everyday News Nigeria",
+      "rights": "Permission pending",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "awkunanaw-2",
+      "title": "Awkunanaw gathering, August 2026",
+      "category": "Campaign",
+      "url": "https://everydaynewsngr.net/wp-content/uploads/2026/08/Screenshot_20260820_234250_WhatsApp-1-777x1024.jpg",
+      "source": "https://everydaynewsngr.net/awkunanaw-clan-gives-ofo-to-their-son-sir-chinyeaka-ohaa-the-ndc-2027-enugu-state-guber-candidate/",
+      "credit": "Everyday News Nigeria",
+      "rights": "Permission pending",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "water-emene",
+      "title": "Residents collecting water in Emene",
+      "url": "https://cdn.punchng.com/wp-content/uploads/2026/02/04004150/FUEL3.jpg",
+      "source": "https://punchng.com/big-budgets-dry-taps-agony-of-enugu-residents-as-n70bn-water-plan-fails/",
+      "credit": "Raphael Ede / PUNCH",
+      "category": "Policy",
+      "rights": "Permission pending",
+      "date": "2026-02-04",
+      "archiveOnly": true
+    },
+    {
+      "id": "ogige-evacuation",
+      "title": "Evacuation at Ogige Market, Nsukka",
+      "url": "https://thewhistler.ng/wp-content/uploads/2024/05/UBA-branch-closes-operations.jpg",
+      "source": "https://thewhistler.ng/enugu-govt-sacks-ogige-market-traders-to-build-bus-terminal/",
+      "credit": "The Whistler",
+      "category": "Policy",
+      "rights": "Permission pending",
+      "date": "2024-05",
+      "archiveOnly": true
+    },
+    {
+      "id": "school-emene",
+      "title": "Classrooms at Airport Primary School, Emene",
+      "url": "https://i0.wp.com/www.ripplesnigeria.com/wp-content/uploads/2026/05/unnamed-39.png?ssl=1",
+      "source": "https://wikkitimes.com/investigation-as-enugu-govt-turns-to-smart-schools-existing-public-schools-left-in-unsafe-and-degrading-conditions-part-i/",
+      "credit": "Arinze Chijioke / Ripples Nigeria / WikkiTimes",
+      "category": "Policy",
+      "rights": "Permission pending",
+      "date": "2026-05-02",
+      "archiveOnly": true
+    },
+    {
+      "id": "school-grounds",
+      "title": "Grounds of Airport Primary School, Emene",
+      "url": "https://i0.wp.com/www.ripplesnigeria.com/wp-content/uploads/2026/05/unnamed-70.jpg?ssl=1",
+      "source": "https://wikkitimes.com/investigation-as-enugu-govt-turns-to-smart-schools-existing-public-schools-left-in-unsafe-and-degrading-conditions-part-i/",
+      "credit": "Arinze Chijioke / Ripples Nigeria / WikkiTimes",
+      "category": "Policy",
+      "rights": "Permission pending",
+      "date": "2026-05-02",
+      "archiveOnly": true
+    },
+    {
+      "id": "nomeh",
+      "title": "Existing REA 100 kW solar mini-grid commissioning, Nomeh",
+      "url": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2024/10/REA-Launches-100kW-Solar-Mini-Grid-In-Enugu-Restates-Nigerias-Commitment-To-Providing-Sustainable-Energy-Access.jpg",
+      "source": "https://www.arise.tv/rea-launches-100kw-solar-mini-grid-in-enugu-restates-nigerias-commitment-to-providing-sustainable-energy-access/",
+      "credit": "Arise News",
+      "category": "Policy",
+      "rights": "Permission pending",
+      "date": "2024-10",
+      "archiveOnly": true
+    },
+    {
+      "id": "rice-adani",
+      "title": "Rice cultivation in Adani, Uzo-Uwani",
+      "url": "https://assets.sunnewsonline.com/2018/02/FARMERS.jpg",
+      "source": "https://thesun.ng/batn-foundation-to-empower-smallholder-farmers-with-n700m/",
+      "credit": "The Sun",
+      "category": "Policy",
+      "rights": "Permission pending",
+      "date": "2018-02",
+      "archiveOnly": true
+    },
+    {
+      "id": "rice-processing",
+      "title": "Rice processing in Enugu",
+      "url": "https://cdn.businessday.ng/2022/01/rice-farmers.png",
+      "source": "https://businessday.ng/news/article/over-1200-enugu-farmers-get-rice-seeds-to-boost-production/",
+      "credit": "BusinessDay",
+      "category": "Policy",
+      "rights": "Permission pending",
+      "date": "2022-01",
+      "archiveOnly": true
+    },
+    {
+      "id": "health-aguibeje",
+      "title": "Archive: health centre in Aguibeje",
+      "url": "https://assets.sunnewsonline.com/2019/11/Untitled-12-24.jpg",
+      "source": "https://thesun.ng/community-bemoans-abandoned-health-centre/",
+      "credit": "The Sun",
+      "category": "Policy",
+      "rights": "Permission pending",
+      "date": "2019-11",
+      "archiveOnly": true
+    },
+    {
+      "id": "erosion-eke",
+      "title": "Erosion damage on the road at Eke junction",
+      "url": "https://thewhistler.ng/wp-content/uploads/2025/08/Eke-junction.png",
+      "source": "https://thewhistler.ng/residents-seek-help-as-erosion-divides-enugu-road/",
+      "credit": "The Whistler",
+      "category": "Policy",
+      "rights": "Permission pending",
+      "date": "2025-08",
+      "archiveOnly": true
+    },
+    {
+      "id": "genesys-lab",
+      "title": "Research and development at Genesys Tech Hub",
+      "url": "https://miro.medium.com/v2/resize%3Afit%3A1400/1%2Atwe_GXs2obykLWSgxEVbkg.jpeg",
+      "source": "https://medium.com/genesys-tech-hub/scuudus-artificial-intelligence-enabled-solution-wyrewolf-would-transform-nigeria-s-financial-55f8825a140f",
+      "credit": "Onyedikachi Ibekwe / Genesys Tech Hub",
+      "category": "Policy",
+      "rights": "Permission pending",
+      "archiveOnly": true
+    },
+    {
+      "id": "airport-terminal",
+      "title": "Akanu Ibiam International Airport, Enugu",
+      "url": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2025/04/enugu-airport-image-3-scaled.jpg",
+      "source": "https://thesun.ng/asaba-vs-anambra-airport-that-offerspassengers-shorter-road-trip-to-enugu/",
+      "credit": "The Sun",
+      "category": "Policy",
+      "rights": "Permission pending",
+      "date": "2025-04"
+    },
+    {
+      "id": "awkunanaw-collage",
+      "title": "Photographic coverage of Awkunanaw gathering",
+      "url": "https://dailynewsngr.com.ng/wp-content/uploads/2026/08/IMG-20260823-WA0005-1280x1000.jpg",
+      "source": "https://dailynewsngr.com.ng/2026/08/23/jubilation-in-enugu-as-chinyeaka-ohaa-receives-awkunanaws-traditional-seal-of-acceptance-authentic-ofo/",
+      "credit": "Daily News Nigeria",
+      "category": "Campaign",
+      "rights": "Permission pending",
+      "date": "2026-08-19"
+    },
+    {
+      "id": "ohaa-branded",
+      "title": "Published NDC-branded candidate portrait",
+      "url": "https://frontlineafrica.com.ng/wp-content/uploads/2026/11/20136440_img20260916wa00571_jpeg301d430d9670e35c6d13f23aa9933745.jpeg",
+      "source": "https://frontlineafrica.com.ng/enugu-ndc-candidate-ohaa-unveils-manifesto-promises-tax-relief/",
+      "credit": "Frontline Africa",
+      "category": "Campaign",
+      "rights": "Permission pending",
+      "date": "2026-11"
+    },
+    {
+      "id": "policy-water",
+      "title": "Water collection",
+      "category": "Policy",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Woman_fetching_water_in_cans.jpg/1280px-Woman_fetching_water_in_cans.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Woman_fetching_water_in_cans.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Woman_fetching_water_in_cans.jpg",
+      "credit": "Queen Asali",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights": "CC BY-SA 4.0",
+      "country": "Kenya",
+      "illustrative": true,
+      "width": 6720,
+      "height": 4480
+    },
+    {
+      "id": "policy-market",
+      "title": "Market trader",
+      "category": "Policy",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Market_Stalls.jpg/1280px-Market_Stalls.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Market_Stalls.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Market_Stalls.jpg",
+      "credit": "Marvellousdurowaiye",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights": "CC BY-SA 4.0",
+      "country": "Ghana",
+      "illustrative": true,
+      "width": 5181,
+      "height": 3454
+    },
+    {
+      "id": "policy-school",
+      "title": "Students reading in a classroom",
+      "category": "Policy",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Students_reading_in_a_classroom.jpg/1280px-Students_reading_in_a_classroom.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Students_reading_in_a_classroom.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Students_reading_in_a_classroom.jpg",
+      "credit": "Bright Kwame Ayisi",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights": "CC0",
+      "country": "Ghana",
+      "illustrative": true,
+      "width": 6036,
+      "height": 4020
+    },
+    {
+      "id": "policy-solar",
+      "title": "Solar panel installation",
+      "category": "Policy",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Solar_panel_installer.jpg/960px-Solar_panel_installer.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Solar_panel_installer.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Solar_panel_installer.jpg",
+      "credit": "Benjamin Blessing",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights": "CC BY-SA 4.0",
+      "country": "Nigeria",
+      "illustrative": true,
+      "width": 6810,
+      "height": 9080
+    },
+    {
+      "id": "policy-farm",
+      "title": "Agricultural harvest",
+      "category": "Policy",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Woman_farmer_harvesting_at_her_farm.jpg/1280px-Woman_farmer_harvesting_at_her_farm.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Woman_farmer_harvesting_at_her_farm.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Woman_farmer_harvesting_at_her_farm.jpg",
+      "credit": "Macdanpets",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights": "CC BY-SA 4.0",
+      "country": "Nigeria",
+      "illustrative": true,
+      "width": 3968,
+      "height": 2976
+    },
+    {
+      "id": "policy-health",
+      "title": "Healthcare consultation",
+      "category": "Policy",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/A_Nigerian_Nurse_attending_to_a_patient.jpg/1280px-A_Nigerian_Nurse_attending_to_a_patient.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/A_Nigerian_Nurse_attending_to_a_patient.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Nigerian_Nurse_attending_to_a_patient.jpg",
+      "credit": "Jamie Tubers",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights": "CC BY-SA 4.0",
+      "country": "Nigeria",
+      "illustrative": true,
+      "width": 3872,
+      "height": 2592
+    },
+    {
+      "id": "policy-road",
+      "title": "Road construction",
+      "category": "Policy",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Road_construction%2C_Kafanchan.jpg/1280px-Road_construction%2C_Kafanchan.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Road_construction%2C_Kafanchan.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Road_construction%2C_Kafanchan.jpg",
+      "credit": "Kambai Akau",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights": "CC BY-SA 4.0",
+      "country": "Nigeria",
+      "illustrative": true,
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "id": "policy-tech",
+      "title": "Digital skills and computer work",
+      "category": "Policy",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/African_Women_working_on_computers.jpg/1280px-African_Women_working_on_computers.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/African_Women_working_on_computers.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:African_Women_working_on_computers.jpg",
+      "credit": "Minette Lontsie",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights": "CC BY-SA 4.0",
+      "country": "Cameroon",
+      "illustrative": true,
+      "width": 4104,
+      "height": 2198
+    }
+  ],
+  "videos": [
+    {
+      "id": "sWgA21OU4y0",
+      "title": "This is Enugu, Nigeria | 042"
+    },
+    {
+      "id": "c8blW3ZnGfc",
+      "title": "GRA and Okpara Avenue aerial views"
+    },
+    {
+      "id": "VrAF3fWg3tI",
+      "title": "Corridor Layout in 4K"
+    },
+    {
+      "id": "FG10R-hjmFI",
+      "title": "Okpara Square from above"
+    },
+    {
+      "id": "VagI4Z47vAk",
+      "title": "Trans Ekulu in 4K"
+    },
+    {
+      "id": "wENsaONAcrE",
+      "title": "Achara Layout aerial tour"
+    },
+    {
+      "id": "w7lhS0vhL98",
+      "title": "ESBS and Agric Bank aerial views"
+    },
+    {
+      "id": "jct_JMjt960",
+      "title": "Archive: Ogbete Market demolition reporting",
+      "kind": "report"
+    },
+    {
+      "id": "Y2wlXiGN-eI",
+      "title": "Archive: Trans-Ekulu Primary School reporting",
+      "kind": "report"
+    }
+  ]
+}
